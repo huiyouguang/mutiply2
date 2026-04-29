@@ -1,0 +1,31 @@
+# 仅排除含密钥的插件（安全必须）
+**/plugins/remotely-save/
+**/remotely-save/
+mutiply2/plugins/remotely-save/
+0Inbox/image/mutiply/plugins/remotely-save/
+
+# Obsidian 相关（避免设备间冲突）
+.obsidian/
+.obsidian-cloud-only/
+.keep-the-rhythm/
+.mutiply/
+.trash/
+
+# 系统垃圾文件（不影响插件）
+.DS_Store
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Desktop.ini
+*.tmp
+*.swp
+*.swo
+*~
+*.log
+
+# 其他临时文件
+node_modules/
+.vscode/
+.idea/
+*.bak
+*.backup
