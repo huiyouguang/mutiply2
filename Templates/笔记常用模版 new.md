@@ -9,7 +9,6 @@
 分值:
 "review_status:":
 tags:
-  - （二
 mindmap-plugin:
 ---
 
