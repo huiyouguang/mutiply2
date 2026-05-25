@@ -8,7 +8,7 @@
 类型:
 mindmap-plugin: basic
 cssclasses:
-PrevNote: "[[Clippings/你人生中太晚明白的道理是什么]]"
+PrevNote: "[[当一个人长期在压抑的环境里自我内耗，真正治愈自己的关键，是和解过去，还是放下期待 - 123与 的回答]]"
 NextNote: "[[为什么美国人花了很多时间在体育上  - 知乎用户5y12N 的回答]]"
 ---
 [谢邀 @麦清](https://www.zhihu.com/people/c99982b64304b35f254dbaf05581a188)

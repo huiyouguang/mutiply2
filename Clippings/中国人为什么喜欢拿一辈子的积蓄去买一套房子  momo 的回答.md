@@ -9,7 +9,7 @@
 mindmap-plugin: basic
 cssclasses:
 PrevNote: "[[人到中年遭遇人生重创，该如何真正走出低谷？ - 四月 的回答]]"
-NextNote: "[[Clippings/人什么时候能大彻大悟]]"
+NextNote: "[[为什么国内的大学越来越高中化了 - 铁芒萁的研习社 的回答]]"
 ---
 小事斤斤计较，大事稀里糊涂。
 
